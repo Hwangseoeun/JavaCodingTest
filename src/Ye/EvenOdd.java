@@ -13,6 +13,6 @@ class EvenOdd {
             System.out.println(answer);
         }
 
-        return answer;
+//        return answer;
     }
 }
