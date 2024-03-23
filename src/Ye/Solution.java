@@ -1,8 +1,13 @@
 package Ye;
 
+//전면 수정 필요
 class Solution {
-    public int solution(String[][] board, int h, int w) {
+    public int solution() {
         String answer;
+
+        String board[][] = {{"blue", "red", "orange", "red"}, {"red", "red", "blue", "orange"}, {"blue", "orange", "red", "red"}, {"orange", "orange", "red", "blue"}};
+        int h = 1;
+        int w = 1;
         int count = 0;
 
         answer = board[h][w];
