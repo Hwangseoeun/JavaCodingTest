@@ -1,4 +1,4 @@
-package ChapterOne;
+package Baekjoon;
 
 import java.math.BigInteger;
 import java.util.Scanner;
