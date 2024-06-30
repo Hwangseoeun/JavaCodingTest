@@ -2,7 +2,6 @@ package Baekjoon;
 
 import java.io.*;
 import java.util.Stack;
-import java.util.StringTokenizer;
 
 public class Baekjoon_10799 {
     public static void main(String[] args) throws IOException {
